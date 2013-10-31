@@ -10,3 +10,6 @@
 [submodule "web"]
 	path = web
 	url = git://github.com/trishika/home-pi-web.git
+[submodule "monitor"]
+	path = monitor
+	url = https://github.com/trishika/home-monitor.git
