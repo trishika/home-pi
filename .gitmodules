@@ -1,15 +1,15 @@
 [submodule "i2c-temp"]
 	path = i2c-temp
-	url = git://github.com/trishika/i2c-temp.git
+	url = ssh://git@github.com/trishika/i2c-temp.git
 [submodule "rcswitch-pi"]
 	path = rcswitch-pi
-	url = git://github.com/trishika/rcswitch-pi.git
+	url = ssh://git@github.com/trishika/rcswitch-pi.git
 [submodule "rest"]
 	path = rest
-	url = git://github.com/trishika/home-pi-rest.git
+	url = ssh://git@github.com/trishika/home-pi-rest.git
 [submodule "web"]
 	path = web
-	url = git://github.com/trishika/home-pi-web.git
+	url = ssh://git@github.com/trishika/home-pi-web.git
 [submodule "monitor"]
 	path = monitor
-	url = https://github.com/trishika/home-monitor.git
+	url = ssh://git@github.com/trishika/home-monitor.git
